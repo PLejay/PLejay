@@ -1,4 +1,4 @@
-### Hi there, I'm Pierre!
+## Hi there, I'm Pierre!
 
 
 I'm a full-stack developer currently living in London. Most experienced with Javascript technologies but always looking to expand my skillset and learn new tools in my efforts to build useful software.
