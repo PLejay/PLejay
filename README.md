@@ -9,9 +9,9 @@ I'm currently open for work, so feel free to reach out at pierrelejay1@gmail.com
 
 Past projects:
 
-- <code><img height="20" alt="Remedic" src="./readme-assets/logo-remedic.svg"></code> [Remedic](https://github.com/alexanderjshall/remedic-app), a full-stack app that provides an in-person patient-doctor consultation across a language-barrier without using a translator. Built in a team of 6 people using React and Tailwind CSS in the front end, GraphQL, Typescript, and Express and PostgreSQL in the back end.
+- <img height="20" alt="Remedic" src="./readme-assets/logo-remedic.svg">[Remedic](https://github.com/alexanderjshall/remedic-app), a full-stack app that provides an in-person patient-doctor consultation across a language-barrier without using a translator. Built in a team of 6 people using React and Tailwind CSS in the front end, GraphQL, Typescript, and Express and PostgreSQL in the back end.
 
-- <code><img height="20" alt="Remedic" src="./readme-assets/logo-quizzie.png"></code> [Quizzie](https://github.com/PLejay/quizzie), a web app allowing users to create randomized quizzes based on collections of card-based questions. Solo 1-week project built using React in the front end, Typescript and Express and MongoDB in the back end.
+- <img height="20" alt="Remedic" src="./readme-assets/logo-quizzie.png"> [Quizzie](https://github.com/PLejay/quizzie), a web app allowing users to create randomized quizzes based on collections of card-based questions. Solo 1-week project built using React in the front end, Typescript and Express and MongoDB in the back end.
 
 On top of various courses and mini-projects for practicing new tools, I am currently working on expanding Quizzie beyond its prototypal state and building a portfolio site using Angular and Sass.
 ## My language and tools
