@@ -36,4 +36,4 @@ But am also learning/getting more practice in
 For added challenge, I am also currently going through [Harvard's CS50 computer science course](https://www.edx.org/course/cs50s-introduction-to-computer-science) to expand my knowledge of the theory behind the tools I use every day. Always aiming to  [increase that T-factor.](https://en.wikipedia.org/wiki/T-shaped_skills)
 
 ## If you love stats
-[![Pierre Lejay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PLejay&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Pierre Lejay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PLejay&count_private=true&show_icons=true&theme=nightowl)](github-readme-stats-c1h72x4al-pierrelejay1-gmailcoms-projects.vercel.app)
