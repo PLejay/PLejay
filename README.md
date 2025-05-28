@@ -1,41 +1,21 @@
 ## Hi there, I'm Pierre!
 
 
- I am a full-stack developer currently living in London. Most experienced with Javascript technologies but always looking to expand my skillset and learn new tools in my efforts to build useful software.
+I am a full-stack developer currently living in London. Most experienced with Javascript technologies but always looking to expand my skillset and learn new tools in my efforts to build useful software.
 
-## 🚀 Past and current projects
+## Past and current projects
 
 ### Current project:
 
-<div style="display: flex; align-items: flex-start; gap: 0.5rem; margin-bottom: 1rem;">
-  <img height="20" width="20" alt="Your Family Paediatrician" src="./readme-assets/logo-yfp.svg" style="object-fit: contain; margin-top: 0.25rem;">
-  <div>
-    <a href="https://github.com/PLejay/your-family-paediatrician">Your Family Paediatrician</a>, a landing page for my wife's paediatrician private service built using Astro and Typescript. I am more used to building interactive web apps than landing pages so this is a good practice in something a bit different!
-  </div>
-</div>
+- <img height="20" alt="Your Family Paediatrician" src="./readme-assets/logo-yfp.svg" style="padding-right: 0.5rem">[Your Family Paediatrician](https://github.com/PLejay/your-family-paediatrician), a landing page for my wife’s paediatrician private service built using Astro and Typescript. I am more used to building interactive web apps than landing pages so this is a good practice in something a bit different!
 
 ### Past projects:
 
-<div style="display: flex; align-items: flex-start; gap: 0.5rem; margin-bottom: 1rem;">
-  <img height="20" width="20" alt="Explicit TS Exports" src="./readme-assets/logo-explicit-ts-exports.png" style="object-fit: contain; margin-top: 0.25rem;">
-  <div>
-    <a href="https://github.com/PLejay/explicit-ts-exports">Explicit TS Exports</a>, a VS Code extension adding a command to quickly generate an index.ts file for a folder of typescript files. Built using the <a href="https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API">TypeScript Compiler API</a>
-  </div>
-</div>
+- <img height="20" alt="Remedic" src="./readme-assets/logo-explicit-ts-exports.png" style="padding-right: 0.5rem">[Explicit TS Exports](https://github.com/PLejay/explicit-ts-exports), a VS Code extension adding a command to quickly generate an index.ts file for a folder of typescript files. Built using the [TypeScript Compiler API](https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API)
 
-<div style="display: flex; align-items: flex-start; gap: 0.5rem; margin-bottom: 1rem;">
-  <img height="20" width="20" alt="Remedic" src="./readme-assets/logo-remedic.svg" style="object-fit: contain; margin-top: 0.25rem;">
-  <div>
-    <a href="https://github.com/alexanderjshall/remedic-app">Remedic</a>, a full-stack app that provides an in-person patient-doctor consultation across a language-barrier without using a translator. Built in a team of 6 people using React and Tailwind CSS in the front end, GraphQL, Typescript, and Express and PostgreSQL in the back end.
-  </div>
-</div>
+- <img height="20" alt="Remedic" src="./readme-assets/logo-remedic.svg" style="padding-right: 0.5rem">[Remedic](https://github.com/alexanderjshall/remedic-app), a full-stack app that provides an in-person patient-doctor consultation across a language-barrier without using a translator. Built in a team of 6 people using React and Tailwind CSS in the front end, GraphQL, Typescript, and Express and PostgreSQL in the back end.
 
-<div style="display: flex; align-items: flex-start; gap: 0.5rem; margin-bottom: 1rem;">
-  <img height="20" width="20" alt="Quizzie" src="./readme-assets/logo-quizzie.png" style="object-fit: contain; margin-top: 0.25rem;">
-  <div>
-    <a href="https://github.com/PLejay/quizzie">Quizzie</a>, a web app allowing users to create randomized quizzes based on collections of card-based questions. Solo 1-week project built using React in the front end, Typescript and Express and MongoDB in the back end.
-  </div>
-</div>
+- <img height="20" alt="Quizzie" src="./readme-assets/logo-quizzie.png" style="padding-right: 0.5rem"> [Quizzie](https://github.com/PLejay/quizzie), a web app allowing users to create randomized quizzes based on collections of card-based questions. Solo 1-week project built using React in the front end, Typescript and Express and MongoDB in the back end.
 
 ## 🛠️ My languages and tools
 
